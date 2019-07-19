@@ -22,7 +22,7 @@
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
-	<string>Practice</string>
+	<string>Main</string>
 	<key>UIMainStoryboardFile~ipad</key>
 	<string>IpadStoryboard</string>
 	<key>UIRequiredDeviceCapabilities</key>
